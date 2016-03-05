@@ -1,4 +1,4 @@
 # moovi
-An  edu-product //make a functional c project//
+a C project          //make a functional c project//
 
 Book Movie tickets!!
