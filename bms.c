@@ -1,5 +1,5 @@
 #include<stdio.h>
-#include "C:/Users/user/Documents/movie/movie1.h"
+#include "moovi-0.1/movie1.h"
 
 
 void bookshow(SCREEN*);
